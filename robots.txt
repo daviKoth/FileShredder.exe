@@ -1,0 +1,5 @@
+User-agent: linuxbot
+Allow:       /agent/*
+Allow:       /russian/ĸ.html
+Disallow:    /robots.txt
+Allow:       /src/robots.txt
